@@ -10,6 +10,4 @@ O gráfico de dispersão permite observar a relação entre o preço e a quilome
 Selecione a opção do gráfico de sua preferência para visualizar.
 
 
-Link direto Render: External URL: http://34.211.200.85:8501
-
-Link gerado com 'streamlit run app.py' no terminal: http://192.168.1.192:8501
+Link para aplicativo web: https://projeto-sprint5-n4r7.onrender.com
