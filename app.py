@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 import os
 
-print(os.listdir('../notebooks'))
+print(os.listdir('notebooks'))
 
 car_data = pd.read_csv('../notebooks/vehicles.csv')  # lendo os dados
 
