@@ -6,7 +6,7 @@ import os
 
 print(os.listdir('notebooks'))
 
-car_data = pd.read_csv('../notebooks/vehicles.csv')  # lendo os dados
+car_data = pd.read_csv('notebooks/vehicles.csv')  # lendo os dados
 
 st.header('Análise de anúncios de vendas de carros')  # cabeçalho
 
