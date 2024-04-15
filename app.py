@@ -5,7 +5,7 @@ import plotly.express as px
 
 car_data = pd.read_csv('../notebooks/vehicles.csv')  # lendo os dados
 
-st.header('Anúncios de vendas de carros')  # cabeçalho
+st.header('Análise de anúncios de vendas de carros')  # cabeçalho
 
 
 # Caixa de seleção para escolher o tipo de gráfico
