@@ -8,3 +8,8 @@ Este aplicativo web foi desenvolvido para realizar análise exploratória de dad
 O histograma permite visualizar a distribuição da quilometragem dos carros anunciados.
 O gráfico de dispersão permite observar a relação entre o preço e a quilometragem dos carros.
 Selecione a opção do gráfico de sua preferência para visualizar.
+
+
+Link direto Render: External URL: http://34.211.200.85:8501
+
+Link gerado com 'streamlit run app.py' no terminal: http://192.168.1.192:8501
